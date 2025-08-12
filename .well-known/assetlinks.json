@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.iafpue",
+      "sha256_cert_fingerprints": ["85:70:A8:A4:76:E5:D7:1B:45:48:51:43:AA:53:EF:A5:05:08:2A:3F:29:93:05:EA:8F:EB:89:0F:71:6E:EE:CE"]
+    }
+  }
+]
